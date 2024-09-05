@@ -1,0 +1,39 @@
+﻿@model IEnumerable<ArticleDto>
+@{
+    Layout = "_AdminLayout";
+}
+<div class="d-flex justify-content-center w-75">
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Title</th>
+                <th scope="col">Content</th>
+                <th scope="col"></th>
+            </tr>
+        </thead>
+        <tbody class="table-group-divider">
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <th scope="row">@item.ArticleId</th>
+                    <td>@item.Title</td>
+                    <th scope="col">
+                        @{
+                            var maxLength = 100;
+                            var content = item.Content.Length > maxLength
+                                          ? item.Content.Substring(0, maxLength) + "..."
+                                          : item.Content;
+                        }
+                        @content
+                    </th>
+                    <td>
+                            <a class="btn btn-danger btn-sm" asp-action="DeleteArticle" asp-controller="Admin" asp-route-articleId="@item.ArticleId">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+

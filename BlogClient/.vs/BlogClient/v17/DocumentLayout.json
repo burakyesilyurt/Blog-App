@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\OGLE\\Downloads\\project (1)\\project\\BlogClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27BC7178-0118-4D9B-B48D-7706B36C3F06}|BlogClient\\BlogClient.csproj|c:\\users\\ogle\\downloads\\project (1)\\project\\blogclient\\blogclient\\controllers\\articlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27BC7178-0118-4D9B-B48D-7706B36C3F06}|BlogClient\\BlogClient.csproj|solutionrelative:blogclient\\controllers\\articlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27BC7178-0118-4D9B-B48D-7706B36C3F06}|BlogClient\\BlogClient.csproj|c:\\users\\ogle\\downloads\\project (1)\\project\\blogclient\\blogclient\\views\\article\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27BC7178-0118-4D9B-B48D-7706B36C3F06}|BlogClient\\BlogClient.csproj|solutionrelative:blogclient\\views\\article\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27BC7178-0118-4D9B-B48D-7706B36C3F06}|BlogClient\\BlogClient.csproj|c:\\users\\ogle\\downloads\\project (1)\\project\\blogclient\\blogclient\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27BC7178-0118-4D9B-B48D-7706B36C3F06}|BlogClient\\BlogClient.csproj|solutionrelative:blogclient\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27BC7178-0118-4D9B-B48D-7706B36C3F06}|BlogClient\\BlogClient.csproj|c:\\users\\ogle\\downloads\\project (1)\\project\\blogclient\\blogclient\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27BC7178-0118-4D9B-B48D-7706B36C3F06}|BlogClient\\BlogClient.csproj|solutionrelative:blogclient\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27BC7178-0118-4D9B-B48D-7706B36C3F06}|BlogClient\\BlogClient.csproj|c:\\users\\ogle\\downloads\\project (1)\\project\\blogclient\\blogclient\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27BC7178-0118-4D9B-B48D-7706B36C3F06}|BlogClient\\BlogClient.csproj|solutionrelative:blogclient\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27BC7178-0118-4D9B-B48D-7706B36C3F06}|BlogClient\\BlogClient.csproj|c:\\users\\ogle\\downloads\\project (1)\\project\\blogclient\\blogclient\\views\\admin\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27BC7178-0118-4D9B-B48D-7706B36C3F06}|BlogClient\\BlogClient.csproj|solutionrelative:blogclient\\views\\admin\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27BC7178-0118-4D9B-B48D-7706B36C3F06}|BlogClient\\BlogClient.csproj|c:\\users\\ogle\\downloads\\project (1)\\project\\blogclient\\blogclient\\models\\viewmodels\\singlearticleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27BC7178-0118-4D9B-B48D-7706B36C3F06}|BlogClient\\BlogClient.csproj|solutionrelative:blogclient\\models\\viewmodels\\singlearticleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\OGLE\\Downloads\\project (1)\\project\\BlogClient\\BlogClient\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "BlogClient\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\OGLE\\Downloads\\project (1)\\project\\BlogClient\\BlogClient\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "BlogClient\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAwwEIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T12:23:32.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\OGLE\\Downloads\\project (1)\\project\\BlogClient\\BlogClient\\Views\\Admin\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "BlogClient\\Views\\Admin\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\OGLE\\Downloads\\project (1)\\project\\BlogClient\\BlogClient\\Views\\Admin\\_AdminLayout.cshtml",
+              "RelativeToolTip": "BlogClient\\Views\\Admin\\_AdminLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T12:01:24.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\OGLE\\Downloads\\project (1)\\project\\BlogClient\\BlogClient\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BlogClient\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\OGLE\\Downloads\\project (1)\\project\\BlogClient\\BlogClient\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BlogClient\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T11:56:44.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SingleArticleViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\OGLE\\Downloads\\project (1)\\project\\BlogClient\\BlogClient\\Models\\ViewModels\\SingleArticleViewModel.cs",
+              "RelativeDocumentMoniker": "BlogClient\\Models\\ViewModels\\SingleArticleViewModel.cs",
+              "ToolTip": "C:\\Users\\OGLE\\Downloads\\project (1)\\project\\BlogClient\\BlogClient\\Models\\ViewModels\\SingleArticleViewModel.cs",
+              "RelativeToolTip": "BlogClient\\Models\\ViewModels\\SingleArticleViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T11:54:32.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\OGLE\\Downloads\\project (1)\\project\\BlogClient\\BlogClient\\Views\\Article\\Create.cshtml",
+              "RelativeDocumentMoniker": "BlogClient\\Views\\Article\\Create.cshtml",
+              "ToolTip": "C:\\Users\\OGLE\\Downloads\\project (1)\\project\\BlogClient\\BlogClient\\Views\\Article\\Create.cshtml",
+              "RelativeToolTip": "BlogClient\\Views\\Article\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T11:52:52.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArticleController.cs",
+              "DocumentMoniker": "C:\\Users\\OGLE\\Downloads\\project (1)\\project\\BlogClient\\BlogClient\\Controllers\\ArticleController.cs",
+              "RelativeDocumentMoniker": "BlogClient\\Controllers\\ArticleController.cs",
+              "ToolTip": "C:\\Users\\OGLE\\Downloads\\project (1)\\project\\BlogClient\\BlogClient\\Controllers\\ArticleController.cs",
+              "RelativeToolTip": "BlogClient\\Controllers\\ArticleController.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAqwGEAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T11:52:02.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\OGLE\\Downloads\\project (1)\\project\\BlogClient\\BlogClient\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "BlogClient\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\OGLE\\Downloads\\project (1)\\project\\BlogClient\\BlogClient\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "BlogClient\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T12:11:08.336Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

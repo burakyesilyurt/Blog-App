@@ -1,0 +1,70 @@
+C:\Users\OGLE\source\repos\project\BlogAPI\BlogDAL\bin\Debug\net8.0\BlogDAL.deps.json
+C:\Users\OGLE\source\repos\project\BlogAPI\BlogDAL\bin\Debug\net8.0\BlogDAL.runtimeconfig.json
+C:\Users\OGLE\source\repos\project\BlogAPI\BlogDAL\bin\Debug\net8.0\BlogDAL.dll
+C:\Users\OGLE\source\repos\project\BlogAPI\BlogDAL\bin\Debug\net8.0\BlogDAL.pdb
+C:\Users\OGLE\source\repos\project\BlogAPI\BlogDAL\obj\Debug\net8.0\BlogDAL.csproj.AssemblyReference.cache
+C:\Users\OGLE\source\repos\project\BlogAPI\BlogDAL\obj\Debug\net8.0\BlogDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OGLE\source\repos\project\BlogAPI\BlogDAL\obj\Debug\net8.0\BlogDAL.AssemblyInfoInputs.cache
+C:\Users\OGLE\source\repos\project\BlogAPI\BlogDAL\obj\Debug\net8.0\BlogDAL.AssemblyInfo.cs
+C:\Users\OGLE\source\repos\project\BlogAPI\BlogDAL\obj\Debug\net8.0\BlogDAL.csproj.CoreCompileInputs.cache
+C:\Users\OGLE\source\repos\project\BlogAPI\BlogDAL\obj\Debug\net8.0\BlogDAL.dll
+C:\Users\OGLE\source\repos\project\BlogAPI\BlogDAL\obj\Debug\net8.0\refint\BlogDAL.dll
+C:\Users\OGLE\source\repos\project\BlogAPI\BlogDAL\obj\Debug\net8.0\BlogDAL.pdb
+C:\Users\OGLE\source\repos\project\BlogAPI\BlogDAL\obj\Debug\net8.0\BlogDAL.genruntimeconfig.cache
+C:\Users\OGLE\source\repos\project\BlogAPI\BlogDAL\obj\Debug\net8.0\ref\BlogDAL.dll
+C:\Users\OGLE\Downloads\project\project\BlogAPI\BlogDAL\bin\Debug\net8.0\BlogDAL.deps.json
+C:\Users\OGLE\Downloads\project\project\BlogAPI\BlogDAL\bin\Debug\net8.0\BlogDAL.runtimeconfig.json
+C:\Users\OGLE\Downloads\project\project\BlogAPI\BlogDAL\bin\Debug\net8.0\BlogDAL.dll
+C:\Users\OGLE\Downloads\project\project\BlogAPI\BlogDAL\bin\Debug\net8.0\BlogDAL.pdb
+C:\Users\OGLE\Downloads\project\project\BlogAPI\BlogDAL\obj\Debug\net8.0\BlogDAL.csproj.AssemblyReference.cache
+C:\Users\OGLE\Downloads\project\project\BlogAPI\BlogDAL\obj\Debug\net8.0\BlogDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OGLE\Downloads\project\project\BlogAPI\BlogDAL\obj\Debug\net8.0\BlogDAL.AssemblyInfoInputs.cache
+C:\Users\OGLE\Downloads\project\project\BlogAPI\BlogDAL\obj\Debug\net8.0\BlogDAL.AssemblyInfo.cs
+C:\Users\OGLE\Downloads\project\project\BlogAPI\BlogDAL\obj\Debug\net8.0\BlogDAL.csproj.CoreCompileInputs.cache
+C:\Users\OGLE\Downloads\project\project\BlogAPI\BlogDAL\obj\Debug\net8.0\BlogDAL.dll
+C:\Users\OGLE\Downloads\project\project\BlogAPI\BlogDAL\obj\Debug\net8.0\refint\BlogDAL.dll
+C:\Users\OGLE\Downloads\project\project\BlogAPI\BlogDAL\obj\Debug\net8.0\BlogDAL.pdb
+C:\Users\OGLE\Downloads\project\project\BlogAPI\BlogDAL\obj\Debug\net8.0\BlogDAL.genruntimeconfig.cache
+C:\Users\OGLE\Downloads\project\project\BlogAPI\BlogDAL\obj\Debug\net8.0\ref\BlogDAL.dll
+C:\Users\OGLE\Downloads\project (1)\project\BlogAPI\BlogDAL\bin\Debug\net8.0\BlogDAL.deps.json
+C:\Users\OGLE\Downloads\project (1)\project\BlogAPI\BlogDAL\bin\Debug\net8.0\BlogDAL.runtimeconfig.json
+C:\Users\OGLE\Downloads\project (1)\project\BlogAPI\BlogDAL\bin\Debug\net8.0\BlogDAL.dll
+C:\Users\OGLE\Downloads\project (1)\project\BlogAPI\BlogDAL\bin\Debug\net8.0\BlogDAL.pdb
+C:\Users\OGLE\Downloads\project (1)\project\BlogAPI\BlogDAL\obj\Debug\net8.0\BlogDAL.csproj.AssemblyReference.cache
+C:\Users\OGLE\Downloads\project (1)\project\BlogAPI\BlogDAL\obj\Debug\net8.0\BlogDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OGLE\Downloads\project (1)\project\BlogAPI\BlogDAL\obj\Debug\net8.0\BlogDAL.AssemblyInfoInputs.cache
+C:\Users\OGLE\Downloads\project (1)\project\BlogAPI\BlogDAL\obj\Debug\net8.0\BlogDAL.AssemblyInfo.cs
+C:\Users\OGLE\Downloads\project (1)\project\BlogAPI\BlogDAL\obj\Debug\net8.0\BlogDAL.csproj.CoreCompileInputs.cache
+C:\Users\OGLE\Downloads\project (1)\project\BlogAPI\BlogDAL\obj\Debug\net8.0\BlogDAL.dll
+C:\Users\OGLE\Downloads\project (1)\project\BlogAPI\BlogDAL\obj\Debug\net8.0\refint\BlogDAL.dll
+C:\Users\OGLE\Downloads\project (1)\project\BlogAPI\BlogDAL\obj\Debug\net8.0\BlogDAL.pdb
+C:\Users\OGLE\Downloads\project (1)\project\BlogAPI\BlogDAL\obj\Debug\net8.0\BlogDAL.genruntimeconfig.cache
+C:\Users\OGLE\Downloads\project (1)\project\BlogAPI\BlogDAL\obj\Debug\net8.0\ref\BlogDAL.dll
+D:\istka\project\BlogAPI\BlogDAL\bin\Debug\net8.0\BlogDAL.deps.json
+D:\istka\project\BlogAPI\BlogDAL\bin\Debug\net8.0\BlogDAL.runtimeconfig.json
+D:\istka\project\BlogAPI\BlogDAL\bin\Debug\net8.0\BlogDAL.dll
+D:\istka\project\BlogAPI\BlogDAL\bin\Debug\net8.0\BlogDAL.pdb
+D:\istka\project\BlogAPI\BlogDAL\obj\Debug\net8.0\BlogDAL.csproj.AssemblyReference.cache
+D:\istka\project\BlogAPI\BlogDAL\obj\Debug\net8.0\BlogDAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\istka\project\BlogAPI\BlogDAL\obj\Debug\net8.0\BlogDAL.AssemblyInfoInputs.cache
+D:\istka\project\BlogAPI\BlogDAL\obj\Debug\net8.0\BlogDAL.AssemblyInfo.cs
+D:\istka\project\BlogAPI\BlogDAL\obj\Debug\net8.0\BlogDAL.csproj.CoreCompileInputs.cache
+D:\istka\project\BlogAPI\BlogDAL\obj\Debug\net8.0\BlogDAL.dll
+D:\istka\project\BlogAPI\BlogDAL\obj\Debug\net8.0\refint\BlogDAL.dll
+D:\istka\project\BlogAPI\BlogDAL\obj\Debug\net8.0\BlogDAL.pdb
+D:\istka\project\BlogAPI\BlogDAL\obj\Debug\net8.0\BlogDAL.genruntimeconfig.cache
+D:\istka\project\BlogAPI\BlogDAL\obj\Debug\net8.0\ref\BlogDAL.dll
+D:\istka\project\Burak-Yeşilyurt\BlogAPI\BlogDAL\bin\Debug\net8.0\BlogDAL.deps.json
+D:\istka\project\Burak-Yeşilyurt\BlogAPI\BlogDAL\bin\Debug\net8.0\BlogDAL.runtimeconfig.json
+D:\istka\project\Burak-Yeşilyurt\BlogAPI\BlogDAL\bin\Debug\net8.0\BlogDAL.dll
+D:\istka\project\Burak-Yeşilyurt\BlogAPI\BlogDAL\bin\Debug\net8.0\BlogDAL.pdb
+D:\istka\project\Burak-Yeşilyurt\BlogAPI\BlogDAL\obj\Debug\net8.0\BlogDAL.csproj.AssemblyReference.cache
+D:\istka\project\Burak-Yeşilyurt\BlogAPI\BlogDAL\obj\Debug\net8.0\BlogDAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\istka\project\Burak-Yeşilyurt\BlogAPI\BlogDAL\obj\Debug\net8.0\BlogDAL.AssemblyInfoInputs.cache
+D:\istka\project\Burak-Yeşilyurt\BlogAPI\BlogDAL\obj\Debug\net8.0\BlogDAL.AssemblyInfo.cs
+D:\istka\project\Burak-Yeşilyurt\BlogAPI\BlogDAL\obj\Debug\net8.0\BlogDAL.csproj.CoreCompileInputs.cache
+D:\istka\project\Burak-Yeşilyurt\BlogAPI\BlogDAL\obj\Debug\net8.0\BlogDAL.dll
+D:\istka\project\Burak-Yeşilyurt\BlogAPI\BlogDAL\obj\Debug\net8.0\refint\BlogDAL.dll
+D:\istka\project\Burak-Yeşilyurt\BlogAPI\BlogDAL\obj\Debug\net8.0\BlogDAL.pdb
+D:\istka\project\Burak-Yeşilyurt\BlogAPI\BlogDAL\obj\Debug\net8.0\BlogDAL.genruntimeconfig.cache
+D:\istka\project\Burak-Yeşilyurt\BlogAPI\BlogDAL\obj\Debug\net8.0\ref\BlogDAL.dll

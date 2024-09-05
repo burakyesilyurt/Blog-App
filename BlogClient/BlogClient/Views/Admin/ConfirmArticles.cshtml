@@ -1,0 +1,53 @@
+﻿@model IEnumerable<ArticleNotPublishedDto>
+@{
+    Layout = "_AdminLayout";
+}
+
+<div class="d-flex justify-content-center w-75">
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Title</th>
+                <th scope="col">Content</th>
+                <th scope="col">Created At</th>
+                <th scope="col"></th>
+            </tr>
+        </thead>
+        <tbody class="table-group-divider">
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <th scope="row">@item.ArticleId</th>
+                    <td>@item.Title</td>
+                    <td>
+                        @{
+                            var maxLength = 100;
+                            var content = item.Content.Length > maxLength
+                                          ? item.Content.Substring(0, maxLength) + "..."
+                                          : item.Content;
+                        }
+                        @content
+                    </td>
+                    <td>@item.CreatedAt.ToString("dd MMM yyyy")</td>
+                    <td>
+                        
+                            <a class="btn btn-success" asp-action="PublishArticle" asp-controller="Admin" asp-route-articleId="@item.ArticleId">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-check" viewBox="0 0 16 16">
+                                    <path d="M10.97 4.97a.75.75 0 0 1 1.07 1.05l-4.99 5.99a.75.75 0 0 1-1.08 0l-2.5-2.5a.75.75 0 0 1 1.07-1.05l1.97 1.97 4.47-5.36z" />
+                                </svg>
+                            </a>
+                     
+                        
+                            <a class="btn btn-danger" asp-action="DeleteArticle" asp-controller="Admin" asp-route-articleId="@item.ArticleId">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-x" viewBox="0 0 16 16">
+                                    <path d="M4.646 4.646a.5.5 0 0 1 .708 0L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 0 1 0-.708z" />
+                                </svg>
+                            </a>
+                        
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

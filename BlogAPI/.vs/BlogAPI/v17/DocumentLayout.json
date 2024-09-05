@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\OGLE\\Downloads\\project (1)\\project\\BlogAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50917B0A-2713-4B5B-90CA-EFF4BE1128E0}|BlogAPI\\BlogAPI.csproj|c:\\users\\ogle\\downloads\\project (1)\\project\\blogapi\\blogapi\\controllers\\articlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50917B0A-2713-4B5B-90CA-EFF4BE1128E0}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\controllers\\articlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B6E5B8-81A3-45C9-868D-8BF982C7150F}|BlogDAL\\BlogDAL.csproj|c:\\users\\ogle\\downloads\\project (1)\\project\\blogapi\\blogdal\\service\\genericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B6E5B8-81A3-45C9-868D-8BF982C7150F}|BlogDAL\\BlogDAL.csproj|solutionrelative:blogdal\\service\\genericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B6E5B8-81A3-45C9-868D-8BF982C7150F}|BlogDAL\\BlogDAL.csproj|c:\\users\\ogle\\downloads\\project (1)\\project\\blogapi\\blogdal\\service\\articleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B6E5B8-81A3-45C9-868D-8BF982C7150F}|BlogDAL\\BlogDAL.csproj|solutionrelative:blogdal\\service\\articleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50917B0A-2713-4B5B-90CA-EFF4BE1128E0}|BlogAPI\\BlogAPI.csproj|c:\\users\\ogle\\downloads\\project (1)\\project\\blogapi\\blogapi\\controllers\\tagcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50917B0A-2713-4B5B-90CA-EFF4BE1128E0}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\controllers\\tagcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B6E5B8-81A3-45C9-868D-8BF982C7150F}|BlogDAL\\BlogDAL.csproj|c:\\users\\ogle\\downloads\\project (1)\\project\\blogapi\\blogdal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B6E5B8-81A3-45C9-868D-8BF982C7150F}|BlogDAL\\BlogDAL.csproj|solutionrelative:blogdal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B6E5B8-81A3-45C9-868D-8BF982C7150F}|BlogDAL\\BlogDAL.csproj|c:\\users\\ogle\\downloads\\project (1)\\project\\blogapi\\blogdal\\models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B6E5B8-81A3-45C9-868D-8BF982C7150F}|BlogDAL\\BlogDAL.csproj|solutionrelative:blogdal\\models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50917B0A-2713-4B5B-90CA-EFF4BE1128E0}|BlogAPI\\BlogAPI.csproj|c:\\users\\ogle\\downloads\\project (1)\\project\\blogapi\\blogapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50917B0A-2713-4B5B-90CA-EFF4BE1128E0}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50917B0A-2713-4B5B-90CA-EFF4BE1128E0}|BlogAPI\\BlogAPI.csproj|c:\\users\\ogle\\downloads\\project (1)\\project\\blogapi\\blogapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{50917B0A-2713-4B5B-90CA-EFF4BE1128E0}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B6E5B8-81A3-45C9-868D-8BF982C7150F}|BlogDAL\\BlogDAL.csproj|c:\\users\\ogle\\downloads\\project (1)\\project\\blogapi\\blogdal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B6E5B8-81A3-45C9-868D-8BF982C7150F}|BlogDAL\\BlogDAL.csproj|solutionrelative:blogdal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50917B0A-2713-4B5B-90CA-EFF4BE1128E0}|BlogAPI\\BlogAPI.csproj|c:\\users\\ogle\\downloads\\project (1)\\project\\blogapi\\blogapi\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50917B0A-2713-4B5B-90CA-EFF4BE1128E0}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B6E5B8-81A3-45C9-868D-8BF982C7150F}|BlogDAL\\BlogDAL.csproj|c:\\users\\ogle\\downloads\\project (1)\\project\\blogapi\\blogdal\\dto\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B6E5B8-81A3-45C9-868D-8BF982C7150F}|BlogDAL\\BlogDAL.csproj|solutionrelative:blogdal\\dto\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B6E5B8-81A3-45C9-868D-8BF982C7150F}|BlogDAL\\BlogDAL.csproj|c:\\users\\ogle\\downloads\\project (1)\\project\\blogapi\\blogdal\\dto\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B6E5B8-81A3-45C9-868D-8BF982C7150F}|BlogDAL\\BlogDAL.csproj|solutionrelative:blogdal\\dto\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenericService.cs",
+              "DocumentMoniker": "C:\\Users\\OGLE\\Downloads\\project (1)\\project\\BlogAPI\\BlogDAL\\Service\\GenericService.cs",
+              "RelativeDocumentMoniker": "BlogDAL\\Service\\GenericService.cs",
+              "ToolTip": "C:\\Users\\OGLE\\Downloads\\project (1)\\project\\BlogAPI\\BlogDAL\\Service\\GenericService.cs",
+              "RelativeToolTip": "BlogDAL\\Service\\GenericService.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T11:14:48.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TagController.cs",
+              "DocumentMoniker": "C:\\Users\\OGLE\\Downloads\\project (1)\\project\\BlogAPI\\BlogAPI\\Controllers\\TagController.cs",
+              "RelativeDocumentMoniker": "BlogAPI\\Controllers\\TagController.cs",
+              "ToolTip": "C:\\Users\\OGLE\\Downloads\\project (1)\\project\\BlogAPI\\BlogAPI\\Controllers\\TagController.cs",
+              "RelativeToolTip": "BlogAPI\\Controllers\\TagController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T11:08:10.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArticleController.cs",
+              "DocumentMoniker": "C:\\Users\\OGLE\\Downloads\\project (1)\\project\\BlogAPI\\BlogAPI\\Controllers\\ArticleController.cs",
+              "RelativeDocumentMoniker": "BlogAPI\\Controllers\\ArticleController.cs",
+              "ToolTip": "C:\\Users\\OGLE\\Downloads\\project (1)\\project\\BlogAPI\\BlogAPI\\Controllers\\ArticleController.cs",
+              "RelativeToolTip": "BlogAPI\\Controllers\\ArticleController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwBoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T11:02:39.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\OGLE\\Downloads\\project (1)\\project\\BlogAPI\\BlogDAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BlogDAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\OGLE\\Downloads\\project (1)\\project\\BlogAPI\\BlogDAL\\AppDbContext.cs",
+              "RelativeToolTip": "BlogDAL\\AppDbContext.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAYwCYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T11:00:57.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Article.cs",
+              "DocumentMoniker": "C:\\Users\\OGLE\\Downloads\\project (1)\\project\\BlogAPI\\BlogDAL\\Models\\Article.cs",
+              "RelativeDocumentMoniker": "BlogDAL\\Models\\Article.cs",
+              "ToolTip": "C:\\Users\\OGLE\\Downloads\\project (1)\\project\\BlogAPI\\BlogDAL\\Models\\Article.cs",
+              "RelativeToolTip": "BlogDAL\\Models\\Article.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA5wBEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T10:59:49.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\OGLE\\Downloads\\project (1)\\project\\BlogAPI\\BlogAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "BlogAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\OGLE\\Downloads\\project (1)\\project\\BlogAPI\\BlogAPI\\appsettings.json",
+              "RelativeToolTip": "BlogAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-27T10:48:24.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\OGLE\\Downloads\\project (1)\\project\\BlogAPI\\BlogAPI\\Program.cs",
+              "RelativeDocumentMoniker": "BlogAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\OGLE\\Downloads\\project (1)\\project\\BlogAPI\\BlogAPI\\Program.cs",
+              "RelativeToolTip": "BlogAPI\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T10:48:20.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\OGLE\\Downloads\\project (1)\\project\\BlogAPI\\BlogDAL\\Models\\User.cs",
+              "RelativeDocumentMoniker": "BlogDAL\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\OGLE\\Downloads\\project (1)\\project\\BlogAPI\\BlogDAL\\Models\\User.cs",
+              "RelativeToolTip": "BlogDAL\\Models\\User.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T11:38:30.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArticleService.cs",
+              "DocumentMoniker": "C:\\Users\\OGLE\\Downloads\\project (1)\\project\\BlogAPI\\BlogDAL\\Service\\ArticleService.cs",
+              "RelativeDocumentMoniker": "BlogDAL\\Service\\ArticleService.cs",
+              "ToolTip": "C:\\Users\\OGLE\\Downloads\\project (1)\\project\\BlogAPI\\BlogDAL\\Service\\ArticleService.cs",
+              "RelativeToolTip": "BlogDAL\\Service\\ArticleService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T11:26:16.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "C:\\Users\\OGLE\\Downloads\\project (1)\\project\\BlogAPI\\BlogAPI\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "BlogAPI\\Controllers\\AccountsController.cs",
+              "ToolTip": "C:\\Users\\OGLE\\Downloads\\project (1)\\project\\BlogAPI\\BlogAPI\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "BlogAPI\\Controllers\\AccountsController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T11:03:34.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserLoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\OGLE\\Downloads\\project (1)\\project\\BlogAPI\\BlogDAL\\DTO\\UserLoginDTO.cs",
+              "RelativeDocumentMoniker": "BlogDAL\\DTO\\UserLoginDTO.cs",
+              "ToolTip": "C:\\Users\\OGLE\\Downloads\\project (1)\\project\\BlogAPI\\BlogDAL\\DTO\\UserLoginDTO.cs",
+              "RelativeToolTip": "BlogDAL\\DTO\\UserLoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T11:06:26.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserRegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\OGLE\\Downloads\\project (1)\\project\\BlogAPI\\BlogDAL\\DTO\\UserRegisterDTO.cs",
+              "RelativeDocumentMoniker": "BlogDAL\\DTO\\UserRegisterDTO.cs",
+              "ToolTip": "C:\\Users\\OGLE\\Downloads\\project (1)\\project\\BlogAPI\\BlogDAL\\DTO\\UserRegisterDTO.cs",
+              "RelativeToolTip": "BlogDAL\\DTO\\UserRegisterDTO.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T11:40:29.628Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

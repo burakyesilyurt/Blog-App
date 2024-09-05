@@ -1,0 +1,136 @@
+D:\istka\project\BlogClient\BlogClient\bin\Debug\net8.0\APIRoutes\apiRoutes.json
+D:\istka\project\BlogClient\BlogClient\bin\Debug\net8.0\appsettings.Development.json
+D:\istka\project\BlogClient\BlogClient\bin\Debug\net8.0\appsettings.json
+D:\istka\project\BlogClient\BlogClient\bin\Debug\net8.0\BlogClient.staticwebassets.runtime.json
+D:\istka\project\BlogClient\BlogClient\bin\Debug\net8.0\BlogClient.exe
+D:\istka\project\BlogClient\BlogClient\bin\Debug\net8.0\BlogClient.deps.json
+D:\istka\project\BlogClient\BlogClient\bin\Debug\net8.0\BlogClient.runtimeconfig.json
+D:\istka\project\BlogClient\BlogClient\bin\Debug\net8.0\BlogClient.dll
+D:\istka\project\BlogClient\BlogClient\bin\Debug\net8.0\BlogClient.pdb
+D:\istka\project\BlogClient\BlogClient\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\istka\project\BlogClient\BlogClient\obj\Debug\net8.0\BlogClient.csproj.AssemblyReference.cache
+D:\istka\project\BlogClient\BlogClient\obj\Debug\net8.0\BlogClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\istka\project\BlogClient\BlogClient\obj\Debug\net8.0\BlogClient.AssemblyInfoInputs.cache
+D:\istka\project\BlogClient\BlogClient\obj\Debug\net8.0\BlogClient.AssemblyInfo.cs
+D:\istka\project\BlogClient\BlogClient\obj\Debug\net8.0\BlogClient.csproj.CoreCompileInputs.cache
+D:\istka\project\BlogClient\BlogClient\obj\Debug\net8.0\BlogClient.MvcApplicationPartsAssemblyInfo.cache
+D:\istka\project\BlogClient\BlogClient\obj\Debug\net8.0\BlogClient.RazorAssemblyInfo.cache
+D:\istka\project\BlogClient\BlogClient\obj\Debug\net8.0\BlogClient.RazorAssemblyInfo.cs
+D:\istka\project\BlogClient\BlogClient\obj\Debug\net8.0\staticwebassets.build.json
+D:\istka\project\BlogClient\BlogClient\obj\Debug\net8.0\staticwebassets.development.json
+D:\istka\project\BlogClient\BlogClient\obj\Debug\net8.0\staticwebassets\msbuild.BlogClient.Microsoft.AspNetCore.StaticWebAssets.props
+D:\istka\project\BlogClient\BlogClient\obj\Debug\net8.0\staticwebassets\msbuild.build.BlogClient.props
+D:\istka\project\BlogClient\BlogClient\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BlogClient.props
+D:\istka\project\BlogClient\BlogClient\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BlogClient.props
+D:\istka\project\BlogClient\BlogClient\obj\Debug\net8.0\staticwebassets.pack.json
+D:\istka\project\BlogClient\BlogClient\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\istka\project\BlogClient\BlogClient\obj\Debug\net8.0\scopedcss\bundle\BlogClient.styles.css
+D:\istka\project\BlogClient\BlogClient\obj\Debug\net8.0\scopedcss\projectbundle\BlogClient.bundle.scp.css
+D:\istka\project\BlogClient\BlogClient\obj\Debug\net8.0\BlogClient.csproj.CopyComplete
+D:\istka\project\BlogClient\BlogClient\obj\Debug\net8.0\BlogClient.dll
+D:\istka\project\BlogClient\BlogClient\obj\Debug\net8.0\refint\BlogClient.dll
+D:\istka\project\BlogClient\BlogClient\obj\Debug\net8.0\BlogClient.pdb
+D:\istka\project\BlogClient\BlogClient\obj\Debug\net8.0\BlogClient.genruntimeconfig.cache
+D:\istka\project\BlogClient\BlogClient\obj\Debug\net8.0\ref\BlogClient.dll
+C:\Users\OGLE\Downloads\project\project\BlogClient\BlogClient\bin\Debug\net8.0\APIRoutes\apiRoutes.json
+C:\Users\OGLE\Downloads\project\project\BlogClient\BlogClient\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\OGLE\Downloads\project\project\BlogClient\BlogClient\bin\Debug\net8.0\appsettings.json
+C:\Users\OGLE\Downloads\project\project\BlogClient\BlogClient\bin\Debug\net8.0\BlogClient.staticwebassets.runtime.json
+C:\Users\OGLE\Downloads\project\project\BlogClient\BlogClient\bin\Debug\net8.0\BlogClient.exe
+C:\Users\OGLE\Downloads\project\project\BlogClient\BlogClient\bin\Debug\net8.0\BlogClient.deps.json
+C:\Users\OGLE\Downloads\project\project\BlogClient\BlogClient\bin\Debug\net8.0\BlogClient.runtimeconfig.json
+C:\Users\OGLE\Downloads\project\project\BlogClient\BlogClient\bin\Debug\net8.0\BlogClient.dll
+C:\Users\OGLE\Downloads\project\project\BlogClient\BlogClient\bin\Debug\net8.0\BlogClient.pdb
+C:\Users\OGLE\Downloads\project\project\BlogClient\BlogClient\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\OGLE\Downloads\project\project\BlogClient\BlogClient\obj\Debug\net8.0\BlogClient.csproj.AssemblyReference.cache
+C:\Users\OGLE\Downloads\project\project\BlogClient\BlogClient\obj\Debug\net8.0\BlogClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OGLE\Downloads\project\project\BlogClient\BlogClient\obj\Debug\net8.0\BlogClient.AssemblyInfoInputs.cache
+C:\Users\OGLE\Downloads\project\project\BlogClient\BlogClient\obj\Debug\net8.0\BlogClient.AssemblyInfo.cs
+C:\Users\OGLE\Downloads\project\project\BlogClient\BlogClient\obj\Debug\net8.0\BlogClient.csproj.CoreCompileInputs.cache
+C:\Users\OGLE\Downloads\project\project\BlogClient\BlogClient\obj\Debug\net8.0\BlogClient.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\OGLE\Downloads\project\project\BlogClient\BlogClient\obj\Debug\net8.0\BlogClient.RazorAssemblyInfo.cache
+C:\Users\OGLE\Downloads\project\project\BlogClient\BlogClient\obj\Debug\net8.0\BlogClient.RazorAssemblyInfo.cs
+C:\Users\OGLE\Downloads\project\project\BlogClient\BlogClient\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\OGLE\Downloads\project\project\BlogClient\BlogClient\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\OGLE\Downloads\project\project\BlogClient\BlogClient\obj\Debug\net8.0\staticwebassets\msbuild.BlogClient.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\OGLE\Downloads\project\project\BlogClient\BlogClient\obj\Debug\net8.0\staticwebassets\msbuild.build.BlogClient.props
+C:\Users\OGLE\Downloads\project\project\BlogClient\BlogClient\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BlogClient.props
+C:\Users\OGLE\Downloads\project\project\BlogClient\BlogClient\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BlogClient.props
+C:\Users\OGLE\Downloads\project\project\BlogClient\BlogClient\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\OGLE\Downloads\project\project\BlogClient\BlogClient\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\OGLE\Downloads\project\project\BlogClient\BlogClient\obj\Debug\net8.0\scopedcss\bundle\BlogClient.styles.css
+C:\Users\OGLE\Downloads\project\project\BlogClient\BlogClient\obj\Debug\net8.0\scopedcss\projectbundle\BlogClient.bundle.scp.css
+C:\Users\OGLE\Downloads\project\project\BlogClient\BlogClient\obj\Debug\net8.0\BlogClient.csproj.Up2Date
+C:\Users\OGLE\Downloads\project\project\BlogClient\BlogClient\obj\Debug\net8.0\BlogClient.dll
+C:\Users\OGLE\Downloads\project\project\BlogClient\BlogClient\obj\Debug\net8.0\refint\BlogClient.dll
+C:\Users\OGLE\Downloads\project\project\BlogClient\BlogClient\obj\Debug\net8.0\BlogClient.pdb
+C:\Users\OGLE\Downloads\project\project\BlogClient\BlogClient\obj\Debug\net8.0\BlogClient.genruntimeconfig.cache
+C:\Users\OGLE\Downloads\project\project\BlogClient\BlogClient\obj\Debug\net8.0\ref\BlogClient.dll
+C:\Users\OGLE\Downloads\project (1)\project\BlogClient\BlogClient\bin\Debug\net8.0\APIRoutes\apiRoutes.json
+C:\Users\OGLE\Downloads\project (1)\project\BlogClient\BlogClient\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\OGLE\Downloads\project (1)\project\BlogClient\BlogClient\bin\Debug\net8.0\appsettings.json
+C:\Users\OGLE\Downloads\project (1)\project\BlogClient\BlogClient\bin\Debug\net8.0\BlogClient.staticwebassets.runtime.json
+C:\Users\OGLE\Downloads\project (1)\project\BlogClient\BlogClient\bin\Debug\net8.0\BlogClient.exe
+C:\Users\OGLE\Downloads\project (1)\project\BlogClient\BlogClient\bin\Debug\net8.0\BlogClient.deps.json
+C:\Users\OGLE\Downloads\project (1)\project\BlogClient\BlogClient\bin\Debug\net8.0\BlogClient.runtimeconfig.json
+C:\Users\OGLE\Downloads\project (1)\project\BlogClient\BlogClient\bin\Debug\net8.0\BlogClient.dll
+C:\Users\OGLE\Downloads\project (1)\project\BlogClient\BlogClient\bin\Debug\net8.0\BlogClient.pdb
+C:\Users\OGLE\Downloads\project (1)\project\BlogClient\BlogClient\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\OGLE\Downloads\project (1)\project\BlogClient\BlogClient\obj\Debug\net8.0\BlogClient.csproj.AssemblyReference.cache
+C:\Users\OGLE\Downloads\project (1)\project\BlogClient\BlogClient\obj\Debug\net8.0\BlogClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OGLE\Downloads\project (1)\project\BlogClient\BlogClient\obj\Debug\net8.0\BlogClient.AssemblyInfoInputs.cache
+C:\Users\OGLE\Downloads\project (1)\project\BlogClient\BlogClient\obj\Debug\net8.0\BlogClient.AssemblyInfo.cs
+C:\Users\OGLE\Downloads\project (1)\project\BlogClient\BlogClient\obj\Debug\net8.0\BlogClient.csproj.CoreCompileInputs.cache
+C:\Users\OGLE\Downloads\project (1)\project\BlogClient\BlogClient\obj\Debug\net8.0\BlogClient.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\OGLE\Downloads\project (1)\project\BlogClient\BlogClient\obj\Debug\net8.0\BlogClient.RazorAssemblyInfo.cache
+C:\Users\OGLE\Downloads\project (1)\project\BlogClient\BlogClient\obj\Debug\net8.0\BlogClient.RazorAssemblyInfo.cs
+C:\Users\OGLE\Downloads\project (1)\project\BlogClient\BlogClient\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\OGLE\Downloads\project (1)\project\BlogClient\BlogClient\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\OGLE\Downloads\project (1)\project\BlogClient\BlogClient\obj\Debug\net8.0\staticwebassets\msbuild.BlogClient.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\OGLE\Downloads\project (1)\project\BlogClient\BlogClient\obj\Debug\net8.0\staticwebassets\msbuild.build.BlogClient.props
+C:\Users\OGLE\Downloads\project (1)\project\BlogClient\BlogClient\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BlogClient.props
+C:\Users\OGLE\Downloads\project (1)\project\BlogClient\BlogClient\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BlogClient.props
+C:\Users\OGLE\Downloads\project (1)\project\BlogClient\BlogClient\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\OGLE\Downloads\project (1)\project\BlogClient\BlogClient\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\OGLE\Downloads\project (1)\project\BlogClient\BlogClient\obj\Debug\net8.0\scopedcss\bundle\BlogClient.styles.css
+C:\Users\OGLE\Downloads\project (1)\project\BlogClient\BlogClient\obj\Debug\net8.0\scopedcss\projectbundle\BlogClient.bundle.scp.css
+C:\Users\OGLE\Downloads\project (1)\project\BlogClient\BlogClient\obj\Debug\net8.0\BlogClient.csproj.Up2Date
+C:\Users\OGLE\Downloads\project (1)\project\BlogClient\BlogClient\obj\Debug\net8.0\BlogClient.dll
+C:\Users\OGLE\Downloads\project (1)\project\BlogClient\BlogClient\obj\Debug\net8.0\refint\BlogClient.dll
+C:\Users\OGLE\Downloads\project (1)\project\BlogClient\BlogClient\obj\Debug\net8.0\BlogClient.pdb
+C:\Users\OGLE\Downloads\project (1)\project\BlogClient\BlogClient\obj\Debug\net8.0\BlogClient.genruntimeconfig.cache
+C:\Users\OGLE\Downloads\project (1)\project\BlogClient\BlogClient\obj\Debug\net8.0\ref\BlogClient.dll
+D:\istka\project\Burak-Yeşilyurt\BlogClient\BlogClient\bin\Debug\net8.0\APIRoutes\apiRoutes.json
+D:\istka\project\Burak-Yeşilyurt\BlogClient\BlogClient\bin\Debug\net8.0\appsettings.Development.json
+D:\istka\project\Burak-Yeşilyurt\BlogClient\BlogClient\bin\Debug\net8.0\appsettings.json
+D:\istka\project\Burak-Yeşilyurt\BlogClient\BlogClient\bin\Debug\net8.0\BlogClient.staticwebassets.runtime.json
+D:\istka\project\Burak-Yeşilyurt\BlogClient\BlogClient\bin\Debug\net8.0\BlogClient.exe
+D:\istka\project\Burak-Yeşilyurt\BlogClient\BlogClient\bin\Debug\net8.0\BlogClient.deps.json
+D:\istka\project\Burak-Yeşilyurt\BlogClient\BlogClient\bin\Debug\net8.0\BlogClient.runtimeconfig.json
+D:\istka\project\Burak-Yeşilyurt\BlogClient\BlogClient\bin\Debug\net8.0\BlogClient.dll
+D:\istka\project\Burak-Yeşilyurt\BlogClient\BlogClient\bin\Debug\net8.0\BlogClient.pdb
+D:\istka\project\Burak-Yeşilyurt\BlogClient\BlogClient\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\istka\project\Burak-Yeşilyurt\BlogClient\BlogClient\obj\Debug\net8.0\BlogClient.csproj.AssemblyReference.cache
+D:\istka\project\Burak-Yeşilyurt\BlogClient\BlogClient\obj\Debug\net8.0\BlogClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\istka\project\Burak-Yeşilyurt\BlogClient\BlogClient\obj\Debug\net8.0\BlogClient.AssemblyInfoInputs.cache
+D:\istka\project\Burak-Yeşilyurt\BlogClient\BlogClient\obj\Debug\net8.0\BlogClient.AssemblyInfo.cs
+D:\istka\project\Burak-Yeşilyurt\BlogClient\BlogClient\obj\Debug\net8.0\BlogClient.csproj.CoreCompileInputs.cache
+D:\istka\project\Burak-Yeşilyurt\BlogClient\BlogClient\obj\Debug\net8.0\BlogClient.MvcApplicationPartsAssemblyInfo.cache
+D:\istka\project\Burak-Yeşilyurt\BlogClient\BlogClient\obj\Debug\net8.0\BlogClient.RazorAssemblyInfo.cache
+D:\istka\project\Burak-Yeşilyurt\BlogClient\BlogClient\obj\Debug\net8.0\BlogClient.RazorAssemblyInfo.cs
+D:\istka\project\Burak-Yeşilyurt\BlogClient\BlogClient\obj\Debug\net8.0\staticwebassets.build.json
+D:\istka\project\Burak-Yeşilyurt\BlogClient\BlogClient\obj\Debug\net8.0\staticwebassets.development.json
+D:\istka\project\Burak-Yeşilyurt\BlogClient\BlogClient\obj\Debug\net8.0\staticwebassets\msbuild.BlogClient.Microsoft.AspNetCore.StaticWebAssets.props
+D:\istka\project\Burak-Yeşilyurt\BlogClient\BlogClient\obj\Debug\net8.0\staticwebassets\msbuild.build.BlogClient.props
+D:\istka\project\Burak-Yeşilyurt\BlogClient\BlogClient\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BlogClient.props
+D:\istka\project\Burak-Yeşilyurt\BlogClient\BlogClient\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BlogClient.props
+D:\istka\project\Burak-Yeşilyurt\BlogClient\BlogClient\obj\Debug\net8.0\staticwebassets.pack.json
+D:\istka\project\Burak-Yeşilyurt\BlogClient\BlogClient\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\istka\project\Burak-Yeşilyurt\BlogClient\BlogClient\obj\Debug\net8.0\scopedcss\bundle\BlogClient.styles.css
+D:\istka\project\Burak-Yeşilyurt\BlogClient\BlogClient\obj\Debug\net8.0\scopedcss\projectbundle\BlogClient.bundle.scp.css
+D:\istka\project\Burak-Yeşilyurt\BlogClient\BlogClient\obj\Debug\net8.0\BlogClient.csproj.CopyComplete
+D:\istka\project\Burak-Yeşilyurt\BlogClient\BlogClient\obj\Debug\net8.0\BlogClient.dll
+D:\istka\project\Burak-Yeşilyurt\BlogClient\BlogClient\obj\Debug\net8.0\refint\BlogClient.dll
+D:\istka\project\Burak-Yeşilyurt\BlogClient\BlogClient\obj\Debug\net8.0\BlogClient.pdb
+D:\istka\project\Burak-Yeşilyurt\BlogClient\BlogClient\obj\Debug\net8.0\BlogClient.genruntimeconfig.cache
+D:\istka\project\Burak-Yeşilyurt\BlogClient\BlogClient\obj\Debug\net8.0\ref\BlogClient.dll

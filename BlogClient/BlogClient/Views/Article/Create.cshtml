@@ -1,0 +1,35 @@
+﻿@model BlogClient.Models.ViewModels.CreatePostViewModel
+@{
+    ViewData["Title"] = "Article Create";
+}
+
+
+    <div class="container mt-5">
+        <h2>Create an Article</h2>
+        <form method="post" asp-action="Create" asp-controller="Article" enctype="multipart/form-data">
+            <div class="mb-3">
+                <label asp-for="articleDTO.Title" class="form-label">Başlık</label>
+            <input asp-for="articleDTO.Title" type="text" class="form-control" required>
+            </div>
+            <div class="mb-3">
+                <label asp-for="articleDTO.Content" class="form-label">İçerik</label>
+                <textarea class="form-control" asp-for="articleDTO.Content" rows="4" required></textarea>
+            </div>
+            <div class="mb-3">
+                <label for="image" class="form-label">Upload Image</label>
+                <input type="file" class="form-control" id="image" name="image" accept="image/*">
+            </div>
+            <!-- Kategoriler -->
+            <div class="mb-3">
+                <label for="categories" class="form-label">Kategoriler</label>
+                <select multiple class="form-control" asp-for="articleDTO.CategoryIds" asp-items="@(new SelectList(Model.Categories,"CategoryId","Name"))">
+                </select>
+            </div>
+            <div class="mb-3">
+                <label for="categories" class="form-label">Kategoriler</label>
+                <select multiple class="form-control" asp-for="articleDTO.TagIds" asp-items="@(new SelectList(Model.Tags,"TagId","Name"))">
+                </select>
+            </div>
+            <button type="submit" class="btn btn-primary">Gönder</button>
+        </form>
+    </div>

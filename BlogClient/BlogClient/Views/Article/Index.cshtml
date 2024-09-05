@@ -1,0 +1,43 @@
+﻿@using Microsoft.AspNetCore.Http
+@inject Microsoft.AspNetCore.Http.IHttpContextAccessor HttpContextAccessor
+@model IEnumerable<ArticleGetAllDto>
+@{
+    ViewData["Title"] = "Articles";
+    var role = HttpContextAccessor.HttpContext.Session.GetString("Role");
+}
+
+
+
+@if (Model != null && Model.Any())
+{
+    <div class="container">
+        <div class="row">
+            @foreach (var article in Model)
+            {
+                @await Html.PartialAsync("_Article", article)
+            }
+        </div>
+    </div>
+}
+else
+{
+    <div class="d-flex flex-column align-items-center justify-content-center" style="height:80vh;">
+        <h1>No articles available.</h1>
+        <div>
+            <a asp-action="Create" asp-controller="Article" class="btn btn-primary mt-5">Would you like to be the first to write an article?</a>
+        </div>
+    </div>
+}
+
+@if (!string.IsNullOrEmpty(role) && role == "Author")
+{
+    <div style="position: fixed; bottom: 10%; right: 12%; z-index: 9999;">
+        <a asp-action="Create" asp-controller="Article" style="display: flex; align-items: center; background-color: #007bff; color: white; padding: 10px 15px; border-radius: 50px; text-decoration: none; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: background-color 0.3s, box-shadow 0.3s;">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-pencil-square" viewBox="0 0 16 16" style="margin-right: 8px;">
+                <path d="M15.502 1.94a.5.5 0 0 1 0 .706L14.459 3.69l-2-2L13.502.646a.5.5 0 0 1 .707 0l1.293 1.293zm-1.75 2.456-2-2L4.939 9.21a.5.5 0 0 0-.121.196l-.805 2.414a.25.25 0 0 0 .316.316l2.414-.805a.5.5 0 0 0 .196-.12l6.813-6.814z" />
+                <path fill-rule="evenodd" d="M1 13.5A1.5 1.5 0 0 0 2.5 15h11a1.5 1.5 0 0 0 1.5-1.5v-6a.5.5 0 0 0-1 0v6a.5.5 0 0 1-.5.5h-11a.5.5 0 0 1-.5-.5v-11a.5.5 0 0 1 .5-.5H9a.5.5 0 0 0 0-1H2.5A1.5 1.5 0 0 0 1 2.5z" />
+            </svg>
+            Write an Article
+        </a>
+    </div>
+}

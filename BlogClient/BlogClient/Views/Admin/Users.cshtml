@@ -1,0 +1,27 @@
+﻿@model IEnumerable<User>
+@{
+    Layout = "_AdminLayout";
+}
+<div class="d-flex justify-content-center w-75">
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Full Name</th>
+                <th scope="col">Email</th>
+                <th scope="col"></th>
+            </tr>
+        </thead>
+        <tbody class="table-group-divider">
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <th scope="row">@item.Id</th>
+                    <td>@item.FullName</td>
+                    <td>@item.Email</td>
+                    <td><a asp-action="DeleteUser" asp-controller="Admin" asp-route-userId="@item.Id" class="btn btn-danger btn-sm">Delete</a></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

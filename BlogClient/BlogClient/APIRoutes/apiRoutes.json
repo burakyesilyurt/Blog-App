@@ -1,0 +1,98 @@
+[
+  {
+    "method": "POST",
+    "route": "/api/Accounts/Register",
+    "action": "register"
+  },
+  {
+    "method": "GET",
+    "route": "/api/Accounts/GetUser",
+    "action": "Account.Get"
+  },
+  {
+    "method": "GET",
+    "route": "/api/Accounts/GetAllUsers",
+    "action": "Account.GetAll"
+  },
+  {
+    "method": "DELETE",
+    "route": "/api/Accounts/Delete",
+    "action": "Account.Delete"
+  },
+  {
+    "method": "POST",
+    "route": "/login",
+    "action": "login"
+  },
+  {
+    "method": "GET",
+    "route": "/api/Article/GetAll",
+    "action": "Article.GetAll"
+  },
+  {
+    "method": "GET",
+    "route": "/api/Article/GetNotPublishedArticles",
+    "action": "Article.GetNotPublishedArticles"
+  },
+  {
+    "method": "GET",
+    "route": "/api/Article/Get",
+    "action": "Article.Get"
+  },
+  {
+    "method": "POST",
+    "route": "/api/Article/Create",
+    "action": "Article.Post"
+  },
+  {
+    "method": "DELETE",
+    "route": "/api/Article/Delete",
+    "action": "Article.Delete"
+  },
+  {
+    "method": "DELETE",
+    "route": "/api/Article/PublishArticle",
+    "action": "Article.Publish"
+  },
+  {
+    "method": "GET",
+    "route": "/api/Category/GetAll",
+    "action": "Category.Get"
+  },
+  {
+    "method": "POST",
+    "route": "/api/Category/Create",
+    "action": "Category.Post"
+  },
+  {
+    "method": "POST",
+    "route": "/api/Comment/Create",
+    "action": "Comment.Post"
+  },
+  {
+    "method": "GET",
+    "route": "/api/Comment/GetCommentFromArticle",
+    "action": "Comment.GetByArticleId"
+  },
+  {
+    "method": "GET",
+    "route": "/api/Tag/GetAll",
+    "action": "Tag.GetAll"
+  },
+  {
+    "method": "POST",
+    "route": "/api/Tag/Create",
+    "action": "Tag.Post"
+  },
+  {
+    "method": "POST",
+    "route": "/api/Comment/LikeArticle",
+    "action": "Comment.Like"
+  },
+  {
+    "method": "GET",
+    "route": "/WeatherForecast",
+    "action": "WeatherForecast.Get"
+  }
+
+]
